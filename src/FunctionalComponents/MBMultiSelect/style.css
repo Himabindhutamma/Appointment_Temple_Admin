@@ -1,0 +1,23 @@
+.listItem{
+    width: 100%;
+    margin: 2px;
+    padding: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.listItem:hover{
+    background: #ebf8f2;
+}
+.cardList{
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid #dbe0e5;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    min-height: 50px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 #dbe0e5;
+    border-radius: 5px;
+    padding: 5px 7px 5px 7px;
+}
