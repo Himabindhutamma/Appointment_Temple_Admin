@@ -1,0 +1,20 @@
+{
+  "short_name": "Medical App",
+  "name": "Healcit",
+  "icons": [
+    {
+      "src": "favicon/logorcht1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon/logorcht1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
